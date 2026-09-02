@@ -1,0 +1,26 @@
+[
+    {
+        "task_id": "8f7e35ca-809a-44bc-98d3-e9133e8a1f1f",
+        "task_type": "test",
+        "status": "pending",
+        "payload": {
+            "foo": "bar"
+        }
+    },
+    {
+        "task_id": "8238c171-d50d-44d7-b252-0acc884d3572",
+        "task_type": "youtube",
+        "status": "pending",
+        "payload": {
+            "title": "Test YouTube Video"
+        }
+    },
+    {
+        "task_id": "81330ef7-afda-4057-a65a-6b15bf303157",
+        "task_type": "telegram",
+        "status": "pending",
+        "payload": {
+            "title": "Channel @test_chan"
+        }
+    }
+]

@@ -1,0 +1,9 @@
+C:\Users\mohai\ocr_env\Scripts\activate
+
+pyinstaller --noconsole --onefile --collect-all yt_dlp thafreeg_app.py
+
+pyinstaller --onefile --noconsole --collect-all FastTelethon --collect-all FastTelethonhelper thafreeg.py
+
+pyinstaller --noconfirm --onedir --windowed --icon="icon.ico" --add-data="logo_light.png;." --add-data="logo_dark.png;." --add-data="icon.png;." --add-data="icon.ico;." "thafreeg.py"
+
+pyinstaller --noconfirm --onedir --windowed --icon="icon.ico" --collect-all FastTelethon --collect-all FastTelethonhelper --add-data="logo_light.png;." --add-data="logo_dark.png;." --add-data="icon.png;." --add-data="icon.ico;." "thafreeg.py"

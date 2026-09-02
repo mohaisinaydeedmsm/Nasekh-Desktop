@@ -1,0 +1,7 @@
+{
+  "version": "1.0.10",
+  "release_date": "2026-09-02",
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.10/update_v1.0.10.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.10/update_v1.0.10.zip.sig",
+  "release_notes": "Full Nasekh client rebranding sweep, dynamic file association registration, and performance optimizations."
+}
