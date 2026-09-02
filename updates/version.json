@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "release_date": "2026-09-02",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.15/update_v1.0.15.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.15/update_v1.0.15.zip.sig",
-  "release_notes": "Decluttered activation window with bottom Close button and instant 1-click license file activation."
+  "version": "1.0.16",
+  "release_date": "2026-09-03",
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.16/update_v1.0.16.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.16/update_v1.0.16.zip.sig",
+  "release_notes": "Proprietary Nasekh Credits display, license credit synchronization, and standalone updater engine."
 }
