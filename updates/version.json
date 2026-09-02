@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "release_date": "2026-09-02",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.10/update_v1.0.10.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.10/update_v1.0.10.zip.sig",
-  "release_notes": "Full Nasekh client rebranding sweep, dynamic file association registration, and performance optimizations."
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.11/update_v1.0.11.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.0.11/update_v1.0.11.zip.sig",
+  "release_notes": "Installer EULA validation, license key file importer in Settings, and decluttered activation layout."
 }
