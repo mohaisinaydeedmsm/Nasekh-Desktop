@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "release_date": "2026-09-03",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.0/update_v1.1.0.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.0/update_v1.1.0.zip.sig",
-  "release_notes": "Major UI copy modernization, new OCR Studio with progressive live streaming, and direct cross-module text handoff."
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.1/update_v1.1.1.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.1/update_v1.1.1.zip.sig",
+  "release_notes": "Official public update channel consolidated on Nasekh-Desktop, with progressive OCR streaming, single-box layout, and cross-module text handoff."
 }
