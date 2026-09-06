@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "release_date": "2026-09-03",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.1/update_v1.1.1.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.1/update_v1.1.1.zip.sig",
-  "release_notes": "Official public update channel consolidated on Nasekh-Desktop, with progressive OCR streaming, single-box layout, and cross-module text handoff."
+  "version": "1.1.2",
+  "release_date": "2026-09-06",
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.2/update_v1.1.2.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.2/update_v1.1.2.zip.sig",
+  "release_notes": "Resolved Proofread AI OpenRouter key verification, fixed Batch Tashkeel indexing and JSON block parsing, enforced strict English UI compliance, and introduced interactive Audio Deck timeline sync with Follow Audio mode."
 }
