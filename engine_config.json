@@ -1,0 +1,226 @@
+{
+  "version": "1.2.0",
+  "updated_at": "2026-09-08",
+  "audio": [
+    {
+      "name": "Whisper Large v3 (Groq LPU)",
+      "provider": "OpenRouter",
+      "model_id": "openai/whisper-large-v3",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Whisper Large v3 Turbo (Groq LPU)",
+      "provider": "OpenRouter",
+      "model_id": "openai/whisper-large-v3-turbo",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Gemini 2.5 Flash Audio",
+      "provider": "OpenRouter",
+      "model_id": "google/gemini-2.5-flash",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Google Chirp 3 Foundation ASR",
+      "provider": "OpenRouter",
+      "model_id": "google/chirp-3",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Thinking Machines Inkling Small (Free)",
+      "provider": "OpenRouter",
+      "model_id": "thinkingmachines/inkling-small:free",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "NVIDIA Nemotron 3 Nano Omni (Free)",
+      "provider": "OpenRouter",
+      "model_id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "base_url": "https://openrouter.ai/api/v1"
+    }
+  ],
+  "translation": [
+    {
+      "name": "Gemini 2.5 Flash (1M Context)",
+      "provider": "OpenRouter",
+      "model_id": "google/gemini-2.5-flash",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Llama 3.3 70B Instruct (Groq / Fast)",
+      "provider": "OpenRouter",
+      "model_id": "meta-llama/llama-3.3-70b-instruct",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "DeepSeek Chat v3.1",
+      "provider": "OpenRouter",
+      "model_id": "deepseek/deepseek-chat",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Google Gemma 4 31B IT (Free)",
+      "provider": "OpenRouter",
+      "model_id": "google/gemma-4-31b-it:free",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "OpenRouter Free Auto-Router",
+      "provider": "OpenRouter",
+      "model_id": "openrouter/free",
+      "base_url": "https://openrouter.ai/api/v1"
+    }
+  ],
+  "proofread": [
+    {
+      "name": "Gemini 2.5 Flash Lite",
+      "provider": "OpenRouter",
+      "model_id": "google/gemini-2.5-flash-lite",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "DeepSeek V4 Flash",
+      "provider": "OpenRouter",
+      "model_id": "deepseek/deepseek-chat",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Llama 3.3 70B Instruct",
+      "provider": "OpenRouter",
+      "model_id": "meta-llama/llama-3.3-70b-instruct",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Google Gemma 4 26B A4B IT (Free)",
+      "provider": "OpenRouter",
+      "model_id": "google/gemma-4-26b-a4b-it:free",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "NVIDIA Nemotron 3 Ultra 550B (Free)",
+      "provider": "OpenRouter",
+      "model_id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "base_url": "https://openrouter.ai/api/v1"
+    }
+  ],
+  "vision": [
+    {
+      "name": "Gemini 2.5 Flash Vision (1M Context)",
+      "provider": "OpenRouter",
+      "model_id": "google/gemini-2.5-flash",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Gemini 2.5 Flash Lite Vision",
+      "provider": "OpenRouter",
+      "model_id": "google/gemini-2.5-flash-lite",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "GPT-4o Mini Vision",
+      "provider": "OpenRouter",
+      "model_id": "openai/gpt-4o-mini",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "DeepSeek V4 Flash Vision Exp",
+      "provider": "OpenRouter",
+      "model_id": "deepseek/deepseek-chat",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Google Gemma 4 31B IT Vision (Free)",
+      "provider": "OpenRouter",
+      "model_id": "google/gemma-4-31b-it:free",
+      "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+      "name": "Dots 3 Note Preview (Free)",
+      "provider": "OpenRouter",
+      "model_id": "dots-studio/dots-3-note-preview:free",
+      "base_url": "https://openrouter.ai/api/v1"
+    }
+  ],
+  "studio": {
+    "audio": [
+      {
+        "name": "Whisper Large v3 (Groq LPU)",
+        "provider": "OpenRouter",
+        "model_id": "openai/whisper-large-v3",
+        "base_url": "https://openrouter.ai/api/v1"
+      },
+      {
+        "name": "Google Chirp 3 Foundation ASR",
+        "provider": "OpenRouter",
+        "model_id": "google/chirp-3",
+        "base_url": "https://openrouter.ai/api/v1"
+      },
+      {
+        "name": "SpaceXAI Grok STT 1.0",
+        "provider": "OpenRouter",
+        "model_id": "x-ai/grok-stt-1.0",
+        "base_url": "https://openrouter.ai/api/v1"
+      }
+    ],
+    "translation": [
+      {
+        "name": "Claude Sonnet 5 Flagship",
+        "provider": "OpenRouter",
+        "model_id": "anthropic/claude-sonnet-5",
+        "base_url": "https://openrouter.ai/api/v1"
+      },
+      {
+        "name": "Google Gemini 2.5 Pro (1M Context)",
+        "provider": "OpenRouter",
+        "model_id": "google/gemini-2.5-pro",
+        "base_url": "https://openrouter.ai/api/v1"
+      },
+      {
+        "name": "OpenAI GPT-4o Flagship",
+        "provider": "OpenRouter",
+        "model_id": "openai/gpt-4o",
+        "base_url": "https://openrouter.ai/api/v1"
+      }
+    ],
+    "proofread": [
+      {
+        "name": "DeepSeek R1 Reasoning Flagship",
+        "provider": "OpenRouter",
+        "model_id": "deepseek/deepseek-r1",
+        "base_url": "https://openrouter.ai/api/v1"
+      },
+      {
+        "name": "OpenAI o3 Deep Logic",
+        "provider": "OpenRouter",
+        "model_id": "openai/o3",
+        "base_url": "https://openrouter.ai/api/v1"
+      },
+      {
+        "name": "Claude Sonnet 5 Polish",
+        "provider": "OpenRouter",
+        "model_id": "anthropic/claude-sonnet-5",
+        "base_url": "https://openrouter.ai/api/v1"
+      }
+    ],
+    "vision": [
+      {
+        "name": "Claude Sonnet 5 Vision",
+        "provider": "OpenRouter",
+        "model_id": "anthropic/claude-sonnet-5",
+        "base_url": "https://openrouter.ai/api/v1"
+      },
+      {
+        "name": "Google Gemini 2.5 Pro Vision",
+        "provider": "OpenRouter",
+        "model_id": "google/gemini-2.5-pro",
+        "base_url": "https://openrouter.ai/api/v1"
+      },
+      {
+        "name": "SpaceXAI Grok 4.6 Vision",
+        "provider": "OpenRouter",
+        "model_id": "x-ai/grok-4.6",
+        "base_url": "https://openrouter.ai/api/v1"
+      }
+    ]
+  }
+}
