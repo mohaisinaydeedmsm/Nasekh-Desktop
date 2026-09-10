@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "release_date": "2026-09-10",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.6/update_v1.1.6.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.6/update_v1.1.6.zip.sig",
-  "release_notes": "Precision credit system ($1=10,000 credits; 1,000 credit trial), tactile in-button liquid progress wave across all batch action buttons, Whisper hallucinated digit segment detection & isolated audio retry patch, and dual-column workbench card font zoom height expansion persistence."
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.7/update_v1.1.7.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.7/update_v1.1.7.zip.sig",
+  "release_notes": "Windows File Explorer Context Menu Integration (Transcribe, Scan OCR, Proofread, and Translate), single-instance IPC dispatching, mandatory verified email trial gate (1,000 credits) with hardware anti-abuse lock while preserving 100% offline freedom, and responsive PlanPurchaseDialog screen geometry."
 }
