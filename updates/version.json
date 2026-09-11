@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "release_date": "2026-09-11",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.8/update_v1.1.8.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.8/update_v1.1.8.zip.sig",
-  "release_notes": "Verified email trial gate (1,000 credits) with burner domain defense and desktop OTP verification, responsive screen-aware PlanPurchaseDialog geometry with smooth scrolling, and full offline transcription and editing continuity."
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.9/update_v1.1.9.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.9/update_v1.1.9.zip.sig",
+  "release_notes": "Trial notice sign out option, session security hardening with DPAPI encryption, and trial credit refresh."
 }
