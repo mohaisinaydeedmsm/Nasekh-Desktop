@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "release_date": "2026-09-14",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.1/update_v1.2.1.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.1/update_v1.2.1.zip.sig",
-  "release_notes": "Translate tab EditableComboBox fix, signed-in trial email display, openrouter/free vision model purge, and dialog close flag hygiene across all modals."
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.2/update_v1.2.2.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.2/update_v1.2.2.zip.sig",
+  "release_notes": "Silent proofread handoff, legacy key file & PIN sweep, SaaS account dashboard overhaul with 60-day FIFO expiration, prompt/retry net usable capacity with high-contrast OR dividers, and halal self-serve cancellation UX."
 }
