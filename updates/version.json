@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "release_date": "2026-09-11",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.9/update_v1.1.9.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.1.9/update_v1.1.9.zip.sig",
-  "release_notes": "Trial notice sign out option, session security hardening with DPAPI encryption, and trial credit refresh."
+  "version": "1.2.0",
+  "release_date": "2026-09-14",
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.0/update_v1.2.0.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.0/update_v1.2.0.zip.sig",
+  "release_notes": "Web Media Pipeline: Audio-only direct MP3 download bypassing AI credits, Start button update, native caption prompt dialog, and format-only export gating."
 }
