@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "release_date": "2026-09-14",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.4/update_v1.2.4.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.4/update_v1.2.4.zip.sig",
-  "release_notes": "Hardened settings architecture: Windows Registry config storage with auto-migration, session DPAPI fallback encryption, clean uninstallation hooks, nuance ampersand fix, and ambient context limits."
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.5/update_v1.2.5.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.5/update_v1.2.5.zip.sig",
+  "release_notes": "Added update restart warning banner to save open work, and completed migration to Windows Registry with zero plaintext config residue on disk."
 }
