@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "release_date": "2026-09-14",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.5/update_v1.2.5.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.5/update_v1.2.5.zip.sig",
-  "release_notes": "Added update restart warning banner to save open work, and completed migration to Windows Registry with zero plaintext config residue on disk."
+  "version": "1.2.6",
+  "release_date": "2026-09-15",
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.6/update_v1.2.6.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.6/update_v1.2.6.zip.sig",
+  "release_notes": "Added standalone window icon to TextEditorWindow, dynamic content-driven sizing across all modal dialogs, and slashed Translate tab latency by >91% via on-demand widget pooling."
 }
