@@ -1,7 +1,7 @@
 {
-  "version": "1.2.6",
-  "release_date": "2026-09-15",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.6/update_v1.2.6.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.6/update_v1.2.6.zip.sig",
-  "release_notes": "Added standalone window icon to TextEditorWindow, dynamic content-driven sizing across all modal dialogs, and slashed Translate tab latency by >91% via on-demand widget pooling."
+  "version": "1.2.7",
+  "release_date": "2026-09-16",
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.7/update_v1.2.7.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.7/update_v1.2.7.zip.sig",
+  "release_notes": "Added Document Inpainting Studio, Subtitle TTS Voice Dubbing, SQLite FTS5 Translation Memory, Academic Footnote Preservation, Context-Aware Nuance Engine, and Server-Routed Concealed Support with automated SaaS provisioning."
 }
