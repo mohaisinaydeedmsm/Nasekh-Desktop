@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
+  "version": "1.3.0",
   "release_date": "2026-09-16",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.7/update_v1.2.7.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.2.7/update_v1.2.7.zip.sig",
-  "release_notes": "Added Document Inpainting Studio, Subtitle TTS Voice Dubbing, SQLite FTS5 Translation Memory, Academic Footnote Preservation, Context-Aware Nuance Engine, and Server-Routed Concealed Support with automated SaaS provisioning."
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.3.0/update_v1.3.0.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.3.0/update_v1.3.0.zip.sig",
+  "release_notes": "Major V1.3 Release: Added Document Inpainting Studio, Subtitle TTS Voice Dubbing, SQLite FTS5 Translation Memory, Academic Footnote Preservation, Context-Aware Nuance Engine, and Server-Routed Concealed Support."
 }
