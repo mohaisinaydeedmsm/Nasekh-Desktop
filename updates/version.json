@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "release_date": "2026-09-16",
-  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.3.1/update_v1.3.1.zip",
-  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.3.1/update_v1.3.1.zip.sig",
-  "release_notes": "Hotfix v1.3.1: Cleaned frozen tab imports, harvested all UI workbenches and Document Inpainting engine in PyInstaller PYZ, and validated startup stability."
+  "zip_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.3.2/update_v1.3.2.zip",
+  "sig_url": "https://github.com/mohaisinaydeedmsm/Nasekh-Desktop/releases/download/v1.3.2/update_v1.3.2.zip.sig",
+  "release_notes": "Hotfix v1.3.2: Resolved startup C-extension crash, enabled smart split mode parity, added .dub drag-and-drop support, and optimized dubbing memory with card recycling."
 }
